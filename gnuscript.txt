@@ -1,0 +1,5 @@
+plot "luxData" smooth csplines
+set size ratio -10
+set title 'voltage ratio by amount of lux'
+set xlabel 'second'
+set ylabel 'voltage'
